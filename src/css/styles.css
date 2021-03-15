@@ -79,3 +79,9 @@ body {
 .active {
   background-color: #A62C21;
 }
+
+.header-banner {
+  background: url("../img/hintergrund.jpg") no-repeat center center;
+  width: 1920px;
+  height: 400px;
+}
